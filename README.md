@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alleny0o" alt="alleny0o" /></a> </p>
 
-- 🔭 I’m currently working on [S&R Laserworks](https://github.com/alleny0o/sr-eCommerce)
+- 🔭 I’m currently working on [S&R Laserworks](https://github.com/alleny0o/sr-eCommerce).
 
-- 🌱 I’m currently learning **CompTIA A+**
+- 🌱 I’m currently learning **CompTIA A+.**
 
-- 🤝 I’m looking for help with [MedusaJS](https://docs.medusajs.com/)
+- 🤝 I’m looking for help with [MedusaJS](https://docs.medusajs.com/).
 
-- 👨‍💻 All of my projects are available at [https://allen-yoo.com](https://allen-yoo.com)
+- 👨‍💻 All of my projects are available at [https://allen-yoo.com](https://allen-yoo.com).
 
-- 📫 How to reach me **ayoo123@terpmail.umd.edu**
+- 📫 How to reach me **ayoo123@terpmail.umd.edu.**
 
 - ⚡ Fun fact **I play basketball.**
 
