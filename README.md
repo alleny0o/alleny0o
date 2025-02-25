@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen Yoo</h1>
-<h3 align="center">A passionate sophomore Computer Science and Math major at University of Maryland, College Park.</h3>
+<h3 align="center">A passionate sophomore Computer Science major at University of Maryland, College Park.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alleny0o&label=Profile%20views&color=0e75b6&style=flat" alt="alleny0o" /> </p>
 
