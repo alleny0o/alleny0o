@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alleny0o" alt="alleny0o" /></a> </p>
 
-- 🔭 I’m currently working on [S&R Laserworks](https://github.com/alleny0o/sr-shop).
+- 🔭 I’m currently working on [SR Laserworks](https://github.com/alleny0o/sr-shop).
 
 - 🌱 I’m currently learning **CompTIA A+.**
 
