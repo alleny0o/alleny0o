@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [SR Laserworks](https://github.com/alleny0o/sr-shop).
 
-- 🌱 I’m currently learning **CompTIA A+.**
+- 🌱 I’m currently learning **AWS.**
 
-- 🤝 I’m looking for help with [MedusaJS](https://docs.medusajs.com/).
+- 🤝 I’m looking for help with [Shopify Hydrogen](https://hydrogen.shopify.dev/).
 
 - 👨‍💻 All of my projects are available at [https://allen-yoo.com](https://allen-yoo.com).
 
