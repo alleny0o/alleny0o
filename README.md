@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alleny0o&label=Profile%20views&color=0e75b6&style=flat" alt="alleny0o" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alleny0o" alt="alleny0o" /></a> </p>
-
 - 🔭 I’m currently working on [allen.dev-store](https://github.com/alleny0o/allen.dev-store).
 
 - 🌱 I’m currently learning **AWS**.
