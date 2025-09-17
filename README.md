@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alleny0o" alt="alleny0o" /></a> </p>
 
-- 🔭 I’m currently working on [SR Laserworks](https://github.com/alleny0o/sr-shop).
+- 🔭 I’m currently working on [allen.dev-store](https://github.com/alleny0o/allen.dev-store).
 
-- 🌱 I’m currently learning **AWS.**
+- 🌱 I’m currently learning **AWS**.
 
 - 🤝 I’m looking for help with [Shopify Hydrogen](https://hydrogen.shopify.dev/).
 
 - 👨‍💻 All of my projects are available at [https://allen-yoo.com](https://allen-yoo.com).
 
-- 📫 How to reach me **ayoo123@terpmail.umd.edu.**
+- 📫 How to reach me **allenyoo.dev@gmail.com**.
 
-- ⚡ Fun fact **I play basketball.**
+- ⚡ Fun fact **I play basketball**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
