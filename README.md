@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **allenyoo.dev@gmail.com**.
 
-- ⚡ Fun fact **I play basketball**.
+- ⚡ Fun fact **I run & play basketball**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
