@@ -2,7 +2,7 @@
 🔭 Working on [allen.dev-store](https://github.com/alleny0o/allen.dev-store) — a custom Shopify Hydrogen theme built with Remix  <br>🌱 Currently learning AWS and exploring cloud & cybersecurity  <br>🤝 Open to collaborating on Shopify Hydrogen or other ecommerce projects  <br>👨‍💻 All my projects live on [GitHub](https://github.com/alleny0o) • Personal site: [allen-yoo.com](https://allen-yoo.com)  <br>📫 Reach me at allenyoo.dev@gmail.com  <br>⚡ Outside of coding I run 🏃 & play 🏀 
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allen.yoo.73) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allenyoo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allenyoo.dev@gmail.com) 
 
 # 💻 Tech Stack:
