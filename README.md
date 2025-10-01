@@ -14,7 +14,7 @@ I am a junior at the University of Maryland in the **ACES Cybersecurity Honors P
 ---
 
 ## 📄 Resume
-[**View my Resume (PDF)**]([https://link-to-your-resume.com](https://docsend.com/view/s/e76xrgj6jpa9xvuc))
+[**View my Resume (PDF)**](https://docsend.com/view/s/e76xrgj6jpa9xvuc)
 
 ---
 
