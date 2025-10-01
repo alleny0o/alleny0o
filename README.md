@@ -18,15 +18,15 @@ I am a junior at the University of Maryland in the **ACES Cybersecurity Honors P
 
 ---
 
-## 📌 Selected Projects (Artifacts)
+## 🛠️ Projects
 - [**allen.dev-store**](https://github.com/alleny0o/allen.dev-store)  
   A custom Shopify Hydrogen theme built with Remix. This project highlights my skills in modern frontend development, e-commerce systems, and deploying production-ready apps.
 
-- [**Honeypot Research**](https://github.com/alleny0o/honeypot-research)  
+- [**Honeypot**](https://github.com/alleny0o/honeypot)  
   Conducted honeypot research capturing 30,000+ attacks. Built a custom MITM server and used Bash, SSH, and Python to analyze attacker behavior, revealing insights into real-world security threats.  
 
-- [**CMSC320 Volcano Data Analysis**](https://github.com/alleny0o/cmsc320-volcano)  
-  A data science project using Python (Pandas, Matplotlib) to explore volcanic activity worldwide. Demonstrates skills in data cleaning, visualization, and statistical analysis.  
+- [**Christ Disciple Mission Church (CDMCLife)**](https://github.com/alleny0o/cdmclife)  
+  Official website for Christ Disciple Mission Church, built with Next.js 15 to deliver a modern and seamless digital experience. Features include a Sanity.io-powered CMS, secure Stripe donation system, dynamic events calendar, and integrated contact system with Resend. Designed with Tailwind CSS, Framer Motion animations, and deployed on Vercel for responsive, production-ready performance.
 
 ---
 
