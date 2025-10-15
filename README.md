@@ -13,11 +13,6 @@ I am a junior at the University of Maryland in the **ACES Cybersecurity Honors P
 
 ---
 
-## 📄 Resume
-[**View my Resume (PDF)**](https://docsend.com/view/s/e76xrgj6jpa9xvuc)
-
----
-
 ## 🛠️ Projects
 - [**allen.dev-store**](https://github.com/alleny0o/allen.dev-store)  
   A custom Shopify Hydrogen theme built with Remix. This project highlights my skills in modern frontend development, e-commerce systems, and deploying production-ready apps.
