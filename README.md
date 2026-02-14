@@ -13,25 +13,6 @@ I am a junior at the University of Maryland in the **ACES Cybersecurity Honors P
 
 ---
 
-## 🛠️ Projects
-- [**allen.dev-store**](https://github.com/alleny0o/allen.dev-store)  
-  A custom Shopify Hydrogen theme built with Remix. This project highlights my skills in modern frontend development, e-commerce systems, and deploying production-ready apps.
-
-- [**Honeypot**](https://github.com/alleny0o/honeypot)  
-  Conducted honeypot research capturing 30,000+ attacks. Built a custom MITM server and used Bash, SSH, and Python to analyze attacker behavior, revealing insights into real-world security threats.  
-
-- [**Christ Disciple Mission Church (CDMCLife)**](https://github.com/alleny0o/cdmclife)  
-  Official website for Christ Disciple Mission Church, built with Next.js 15 to deliver a modern and seamless digital experience. Features include a Sanity.io-powered CMS, secure Stripe donation system, dynamic events calendar, and integrated contact system with Resend. Designed with Tailwind CSS, Framer Motion animations, and deployed on Vercel for responsive, production-ready performance.
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/allen.yoo.73) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allenyoo) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allenyoo.dev@gmail.com) 
-
----
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
