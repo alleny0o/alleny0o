@@ -8,11 +8,6 @@
 
 ---
 
-## 📝 Professional Overview
-I am a junior at the University of Maryland in the **ACES Cybersecurity Honors Program**. I conducted honeypot research capturing **30,000+ attacks** using Bash, SSH, Python, NAT rules, and a custom MITM server to analyze attacker behavior. I am a **Google Cybersecurity Professional Certificate** holder with AWS experience. Currently, I’m building a fully functional, personalized **e-commerce site** with Shopify Hydrogen and Remix. Passionate about cybersecurity, adaptable, and always learning through hands-on work.
-
----
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
