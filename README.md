@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on [SEAM](https://github.com/alleny0o/seam) — a custom Shopify Hydrogen theme built with Remix  
+🔭 Working on [SEAM](https://github.com/alleny0o/seam), a custom Shopify Hydrogen theme built with Remix  
 📫 Reach me at allenyoo.dev@gmail.com  
 
 ---
